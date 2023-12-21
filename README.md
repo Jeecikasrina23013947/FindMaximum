@@ -52,8 +52,10 @@ marks=list(input())
 ## Output:
 i)	# To find the maximum of marks using the list method sort.
 ![image](https://github.com/Jeecikasrina23013947/FindMaximum/assets/148515300/09390ff3-3f6f-4ff6-a6b5-8b7d90490345)
+
 ii)	# To find the maximum marks using the list method max().
 ![image](https://github.com/Jeecikasrina23013947/FindMaximum/assets/148515300/a982a768-d10a-4b5e-9a3b-206aa90723f4)
+
 iii) # To find the maximum marks without using builtin functions.
 ![image](https://github.com/Jeecikasrina23013947/FindMaximum/assets/148515300/f131a28f-f1ed-4e68-8b21-71a9711a600d)
 
